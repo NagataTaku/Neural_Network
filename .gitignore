@@ -8,3 +8,4 @@ mnist.h.gch
 mnist.hpp
 mnist.hpp.gch
 test.cpp
+perceptron.cpp

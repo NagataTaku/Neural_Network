@@ -29,7 +29,7 @@ int main(){
     
     TwoLayerNet network(784,50,10);
 
-    int iters_num=1200;
+    int iters_num=1201;
     int train_size=x_train.rows();
     int batch_size=100;
     double learning_rate = 0.1;
