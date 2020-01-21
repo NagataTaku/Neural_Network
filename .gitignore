@@ -1,0 +1,10 @@
+.vscode/
+Eigen/
+mnist/
+a.exe
+common.h
+mnist.h
+mnist.h.gch
+mnist.hpp
+mnist.hpp.gch
+test.cpp
